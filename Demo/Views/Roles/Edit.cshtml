@@ -1,0 +1,24 @@
+﻿@model IdentityRole
+
+    <title>Edit Role</title>
+<form asp-controller="Roles" asp-action="Edit" class="form-group">
+    
+     <label asp-for="Id">Id</label>
+    <input type="text" class="form-control" asp-for="Id" readonly />
+        <br />
+    <label asp-for="Name">Name</label>
+    <input type="text" class="form-control" asp-for="Name" />
+   
+    <br />
+
+
+
+    <center>
+        <input type="submit" value="Edit" class="btn btn-primary" />
+        <input type="reset" value="Reset" class="btn btn-danger" />
+    </center>
+</form>
+ <center>
+        <a asp-controller="Roles" asp-action="AddOrRemoveUsers" asp-route-RoleId="@Model.Id" class="btn btn-info">Add or remove users with role</a>
+        
+        </center>
