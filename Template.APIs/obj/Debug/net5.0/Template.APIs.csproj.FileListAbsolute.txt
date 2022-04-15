@@ -1,0 +1,215 @@
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\appsettings.Development.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\appsettings.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\ref\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\staticwebassets\Template.APIs.StaticWebAssets.Manifest.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\staticwebassets\Template.APIs.StaticWebAssets.xml
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\scopedcss\bundle\Template.APIs.styles.css
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.RazorTargetAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\ref\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\appsettings.Development.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\appsettings.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.exe
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\ref\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\staticwebassets\Template.APIs.StaticWebAssets.Manifest.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\staticwebassets\Template.APIs.StaticWebAssets.xml
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\scopedcss\bundle\Template.APIs.styles.css
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.RazorTargetAssemblyInfo.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\ref\Template.APIs.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Template.APIs\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\appsettings.Development.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\appsettings.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.StaticWebAssets.xml
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.exe
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.deps.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.runtimeconfig.dev.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Template.APIs.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\bin\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.AssemblyReference.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfoInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.AssemblyInfo.cs
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CoreCompileInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\scopedcss\bundle\Template.APIs.styles.css
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\staticwebassets\Template.APIs.StaticWebAssets.Manifest.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.RazorTargetAssemblyInfo.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.csproj.CopyComplete
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\refint\Template.APIs.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\Template.APIs.genruntimeconfig.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Template.APIs\obj\Debug\net5.0\ref\Template.APIs.dll

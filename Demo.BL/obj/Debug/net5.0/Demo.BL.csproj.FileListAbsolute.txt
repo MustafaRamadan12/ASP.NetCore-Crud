@@ -1,0 +1,150 @@
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+C:\Users\elgen\source\repos\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session8_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session9_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\refint\Demo.BL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll
+F:\full stack end\core\SESSION11\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.deps.json
+F:\full stack end\core\SESSION11\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.dll
+F:\full stack end\core\SESSION11\APP\Demo.BL\bin\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION11\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION11\APP\Demo.BL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.AssemblyReference.cache
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfoInputs.cache
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.AssemblyInfo.cs
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CoreCompileInputs.cache
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.csproj.CopyComplete
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.dll
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\refint\Demo.BL.dll
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\Demo.BL.pdb
+F:\full stack end\core\SESSION11\APP\Demo.BL\obj\Debug\net5.0\ref\Demo.BL.dll

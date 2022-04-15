@@ -1,0 +1,120 @@
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\elgen\source\repos\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session4_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session5_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session6_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session7_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Rounds\Route\C35 - Friday + Saturday\.Net Core\Session10_Core\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+F:\full stack end\core\SESSION10\drive-download-20220303T183525Z-001\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+F:\full stack end\core\SESSION11\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\full stack end\core\SESSION11\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+F:\full stack end\core\SESSION11\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+F:\full stack end\core\SESSION11\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION11\APP\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+F:\full stack end\core\SESSION11\APP\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
